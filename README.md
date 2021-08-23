@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Anna-Olivia
+### Hi there 👋, I'm Anna
 
 
 - 🔭 I' currently working on ...
