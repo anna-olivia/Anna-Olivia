@@ -20,6 +20,8 @@
 
 
 ## I AM DOING WHAT?
-Right now working on a small project with <img src="https://img.shields.io/badge/NextJs-black?style=for-the-badge&logo=nextjs&logoColor=white%22"></img> ...
+Right now working on a small project with:
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img> <img src="https://img.shields.io/badge/NextJs-black?style=for-the-badge&logo=nextjs&logoColor=white%22"></img> 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anna-olivia&theme=vision-friendly-dark&show_icons=true) -->
