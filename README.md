@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-anna%20olivia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-olivia-wietholtz-6373a41b8/)](https://www.linkedin.com/in/anna-olivia-wietholtz-6373a41b8/)
 
+https://anna-olivia.vercel.app/
+
 ## TECH STACK
 
 <div><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
