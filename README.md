@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anna
 
-[![Linkedin Badge](https://img.shields.io/badge/-anna%20olivia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-olivia-wietholtz-6373a41b8/)](https://www.linkedin.com/in/anna-olivia-wietholtz-6373a41b8/)
+[![Linkedin Badge](https://img.shields.io/badge/-anna%20olivia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annalebertwietholtz/)](https://www.linkedin.com/in/annalebertwietholtz/)
 
 https://anna-olivia.vercel.app/
 
